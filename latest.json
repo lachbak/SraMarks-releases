@@ -1,9 +1,9 @@
 {
-  "version": "1.5.0",
-  "versionCode": 10,
-  "apk": "SraMarks-1.5.0.apk",
-  "url": "https://raw.githubusercontent.com/lachbak/SraMarks-releases/main/apk/SraMarks-1.5.0.apk",
-  "size": 1127673,
-  "sha256": "4430d38fb383a39c58cb08b4d266c257201e4cbfa66d85ddba805eb5a0389f59",
-  "notes": "• البحث عن أي تلميذ في كل الأقسام، مع بطاقة تعرض نقاطه ومعدله وترتيبه وتقديره، وتعديل نقاطه بضغطة.\n• صفحة «الدعم والتواصل»: واتساب، البريد، LinkedIn، اقتراح ميزة، الإبلاغ عن مشكلة.\n• عند اختيار ملف لا تظهر إلا ملفات Excel.\n• تحليل PDF أوضح: خلاصة في الصفحة الأولى، وأفواج المعالجة والإثراء المقترحة لكل قسم."
+  "version": "1.6.0",
+  "versionCode": 11,
+  "apk": "SraMarks-1.6.0.apk",
+  "url": "https://raw.githubusercontent.com/lachbak/SraMarks-releases/main/apk/SraMarks-1.6.0.apk",
+  "size": 451833,
+  "sha256": "a95d7b18e1e6d548814cf6729d6b60e1cc5b791a3fc1a499629904d85dc3ad70",
+  "notes": "• تشفير الكود وواجهة الويب لحماية التطبيق من الهندسة العكسية.\n• حجم أصغر وبدء أسرع.\n• ورقة الرصد (PDF): اطبعها واكتب عليها النقاط بخط يدك (تمهيد لميزة المسح بالكاميرا)."
 }
