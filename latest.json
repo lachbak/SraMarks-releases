@@ -1,9 +1,9 @@
 {
-  "version": "1.3.2",
-  "versionCode": 8,
-  "apk": "SraMarks-1.3.2.apk",
-  "url": "https://raw.githubusercontent.com/lachbak/SraMarks-releases/main/apk/SraMarks-1.3.2.apk",
+  "version": "1.4.0",
+  "versionCode": 9,
+  "apk": "SraMarks-1.4.0.apk",
+  "url": "https://raw.githubusercontent.com/lachbak/SraMarks-releases/main/apk/SraMarks-1.4.0.apk",
   "size": 1115385,
-  "sha256": "f4e0da32092707ffaa06a0bdd4fc5d45c827b35e8002f0134fe5c75419eb39b2",
-  "notes": "• تنبيه بالإصدار الجديد عند كل فتح للتطبيق (يظهر بعد إغلاق أي نافذة أخرى).\n• إزالة الاسم المكتوب كعلامة مائية خلف صفحات ملفات PDF التحليلية.\n• زر «مشاركة التطبيق» في الصفحة الرئيسية والإعدادات: يرسل رابطا يحمّل آخر إصدار مباشرة."
+  "sha256": "e83de4be206a7edbae2381799eef077b1d1bc550bb742a02018f7889fad6f261",
+  "notes": "• تصميم جديد احترافي مستوحى من ورقة الامتحان المربعة، في الوضعين الفاتح والداكن ومع كل الألوان.\n• العلامة الحالية تظهر كبيرة على مربع من ورقة الامتحان، مسطّرة بلون تقديرها.\n• لوحة أرقام بأزرار بارزة أوضح وأسرع للمس. طريقة الإدخال لم تتغير."
 }
