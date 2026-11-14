@@ -1,9 +1,9 @@
 {
-  "version": "1.3.0",
-  "versionCode": 6,
-  "apk": "SraMarks-1.3.0.apk",
-  "url": "https://raw.githubusercontent.com/lachbak/SraMarks-releases/main/apk/SraMarks-1.3.0.apk",
+  "version": "1.3.1",
+  "versionCode": 7,
+  "apk": "SraMarks-1.3.1.apk",
+  "url": "https://raw.githubusercontent.com/lachbak/SraMarks-releases/main/apk/SraMarks-1.3.1.apk",
   "size": 1115385,
-  "sha256": "456b5e63077b72db8235454d18a5228df324614ee6a8cb18d5a3e7e0cbc4d887",
-  "notes": "• البحث عن التحديثات وتثبيتها من داخل التطبيق (الإعدادات ← البحث عن تحديث)، ومرة في اليوم تلقائيا.\n• لا تخرج أي بيانات من هاتفك: الاتصال بالإنترنت للتحديث فقط."
+  "sha256": "53ecfa442ab221c22a4995337e3b9b49b7a17e42416084de2c90f7d068157ccb",
+  "notes": "• إزالة الاسم المكتوب كعلامة مائية خلف صفحات ملفات PDF التحليلية.\n• زر «مشاركة التطبيق» في الصفحة الرئيسية والإعدادات: يرسل رابطا يحمّل آخر إصدار مباشرة."
 }
