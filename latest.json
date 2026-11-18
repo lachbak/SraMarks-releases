@@ -1,9 +1,9 @@
 {
-  "version": "1.6.0",
-  "versionCode": 11,
-  "apk": "SraMarks-1.6.0.apk",
-  "url": "https://raw.githubusercontent.com/lachbak/SraMarks-releases/main/apk/SraMarks-1.6.0.apk",
-  "size": 451833,
-  "sha256": "a95d7b18e1e6d548814cf6729d6b60e1cc5b791a3fc1a499629904d85dc3ad70",
-  "notes": "• تشفير الكود وواجهة الويب لحماية التطبيق من الهندسة العكسية.\n• حجم أصغر وبدء أسرع.\n• ورقة الرصد (PDF): اطبعها واكتب عليها النقاط بخط يدك (تمهيد لميزة المسح بالكاميرا)."
+  "version": "1.7.0",
+  "versionCode": 12,
+  "apk": "SraMarks-1.7.0.apk",
+  "url": "https://raw.githubusercontent.com/lachbak/SraMarks-releases/main/apk/SraMarks-1.7.0.apk",
+  "size": 1410364,
+  "sha256": "a6dbc9c1fe301fc71c385ffb5ec553f81b0b792eb8ea7049f3738c7927c21a39",
+  "notes": "• جديد: قراءة ورقة الرصد بالكاميرا. اطبع الورقة من التطبيق، واكتب العلامات بخطك، ثم صوّرها فتُقرأ على هاتفك دون إنترنت.\n• شاشة مراجعة: كل علامة تحت صورة خطّها، والعلامات التي لم يتأكد منها التطبيق مؤطّرة بالبرتقالي، وتُصحَّح بلمسة.\n• لا يُكتب شيء في الملف قبل موافقتك، وزر «تراجع» واحد يعيد العلامات والتقديرات."
 }
